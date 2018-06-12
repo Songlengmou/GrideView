@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GrideView</string>
+
+    <string name="report_form">报表</string>
+    <string name="Entry">录入</string>
+    <string name="Dialogue">对话</string>
+    <string name="set_up">设置</string>
+</resources>
